@@ -26,7 +26,7 @@ body {
     text-align: center;
     background-color: var(--card-front-color);
     height: 100%;
-    transform-style:preserve-3d ;
+    transform-style: preserve-3d ;
     transition: transform 300ms ease-in-out;
 }
 
@@ -61,6 +61,7 @@ body {
     transform: rotateY(180deg)
 
 }
+.cartao__conteudo h3
 .cartao__conteudo__pergunta
 .cartao__conteudo__resposta{
     backface-visibility: hidden;
