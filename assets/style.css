@@ -3,6 +3,14 @@ body {
     font-family: Bai Jamjuree;
 }
 
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+}
+
 footer {
     background-color: mediumslateblue;
     color: violet;
