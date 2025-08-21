@@ -1,6 +1,6 @@
 :root {
     --text-color: #251239;
-    --card-front-color: #d488e9;
+    --card-front-color: #dc79df;
     --card-back-color: #020202;
 }
 
@@ -8,7 +8,7 @@
 body {
     background:url('donload.jpeg');
     font-family: Bai Jamjuree;
-    background-color: mediumpurple;
+    background-color: rgb(46, 19, 61);
 }
 
 #container {
