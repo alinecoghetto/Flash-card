@@ -15,8 +15,8 @@ body {
     display: flex;
     flex-wrap:wrap;
     justify-content: space-between;
-    padding: 4rem;
-    gap:3rem ;
+    padding: 2rem;
+    gap:1rem ;
 }
 
 .cartao {
