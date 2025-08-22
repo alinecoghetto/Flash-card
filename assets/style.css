@@ -77,28 +77,14 @@ body {
 .cartao__conteudo__resposta{
     transform: rotateY(180deg);
 
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+footer{
+    background-color: darkslateblue;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
 footer p {
     text-align: center;
     font-size: 0.6rem;
