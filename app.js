@@ -18,6 +18,7 @@ let respostaEStaVisivel = false
 
 function viraCartao(){
     respostaEStaVisivel = !respostaEStaVisivel 
+    cartao.classList.toggle('active', respostaEStaVisivel)
 }
 
 
