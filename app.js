@@ -5,12 +5,12 @@ function criaCartao( categoria, pergunta, resposta) {
 
     cartao.innerHTML = `
 <div class="cartao__conteudo">
-                <h3>matemática</h3>
+                <h3>${categoria}</h3>
                 <div class="cartao__conteudo__pergunta">
-                        <p>qual o coseno de 60° ?</p>
+                        <p>${pergunta}</p>
                 </div>
                 <div class="cartao__conteudo__resposta">
-                       <p> = 1/2 </p>
+                       <p>${resposta} </p>
                 </div>
         </div>
     `
